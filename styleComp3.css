@@ -1,0 +1,28 @@
+body
+{
+    background-color:thistle;
+    font-family: Arial, sant-serif;
+    text-align: center;
+}
+h1
+{
+    background-color:teal;
+    color: white;
+    text-align: center;
+}
+div.Estudiante
+{
+    margin: 0 auto; 
+    width: 100%;
+    color: navy;
+    text-align: justify;
+    font-size: xx-large;
+}     
+.Datos
+{
+    background-color: azure;
+} 
+.Materias
+{
+    background-color: azure;
+} 

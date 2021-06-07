@@ -1,0 +1,20 @@
+
+body
+{
+   /* background-color: thistle;*/
+    background-color:lightpink;
+    font-size: 20px;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+h2
+{   
+    color:purple;
+}
+
+p
+{   
+    color: navy;
+    text-align: center;   
+}
